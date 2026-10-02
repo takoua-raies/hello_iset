@@ -1,17 +1,11 @@
-# hello_iset
 
-A new Flutter project.
 
-## Getting Started
+- **Nom** : Rais
+- **Prénom** : Takoua
+- **Groupe** : DSI33
 
-This project is a starting point for a Flutter application.
+Première application Flutter (compteur), exécutée dans Chrome (Flutter Web),
+faute d'émulateur ou de smartphone Android disponible.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture de l'app](capture.png)
